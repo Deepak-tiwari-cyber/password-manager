@@ -5,7 +5,7 @@ A secure password manager using AES encryption with Python.
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/YOUR_USERNAME/password-manager.git cd password-manager
+git clone https://github.com/Deepak-tiwari-cyber/password-manager.git cd password-manager
 
 2. Install dependencies:
 
